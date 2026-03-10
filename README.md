@@ -282,7 +282,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Nitesh** - *Sr. Integration Architect, Data Scientist & ML Engineer*
 - 🎓 **PG Course in AI/ML from UT Austin** - Advanced Analytics Specialization
-- 💼 **LinkedIn**: [Connect with me](www.linkedin.com/in/niteshsharma90)
+- 💼 **LinkedIn**: www.linkedin.com/in/niteshsharma90
 - 📧 **Email**: niteshsharmasrm@gmail.com
 - 🌐 **Portfolio**: [View Projects](https://github.com/niteshsharmasrm)
 
