@@ -280,8 +280,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Nitesh** - *Data Scientist & ML Engineer*
-- 🎓 **PG Course in AI/ML** - Advanced Analytics Specialization
+**Nitesh** - *Sr. Integration Architect, Data Scientist & ML Engineer*
+- 🎓 **PG Course in AI/ML from UT Austin** - Advanced Analytics Specialization
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/niteshsharmasrm)
 - 📧 **Email**: niteshsharmasrm@gmail.com
 - 🌐 **Portfolio**: [View Projects](https://github.com/niteshsharmasrm)
