@@ -173,7 +173,7 @@ print(f"Total Revenue: ${insights['revenue_metrics']['total_revenue']:,.2f}")
 - **Operational efficiency** consulting and process optimization
 - **Data-driven strategy** development and implementation
 
-## 🏆 FAANG-Ready Skills Demonstrated
+## 🏆 Skills Demonstrated
 
 ### **Data Engineering & ETL**
 - Large-scale data processing and pipeline development
