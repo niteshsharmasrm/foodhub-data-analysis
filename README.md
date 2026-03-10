@@ -8,7 +8,7 @@
 
 ## 🚀 Project Overview
 
-**FoodHub Data Analysis** is a comprehensive data science project that leverages advanced analytics to extract actionable insights from food delivery operations. This project demonstrates expertise in **data engineering**, **statistical analysis**, **machine learning**, and **business intelligence** - skills highly valued at **FAANG companies** and top-tier tech organizations.
+**FoodHub Data Analysis** is a comprehensive data science project that leverages advanced analytics to extract actionable insights from food delivery operations. This project demonstrates expertise in **data engineering**, **statistical analysis**, **machine learning**, and **business intelligence** - skills highly valued at **Fortune companies** and top-tier tech organizations.
 
 ### 🎯 Business Impact
 - **Revenue Optimization**: Identified key revenue drivers and customer behavior patterns
@@ -173,7 +173,7 @@ print(f"Total Revenue: ${insights['revenue_metrics']['total_revenue']:,.2f}")
 - **Operational efficiency** consulting and process optimization
 - **Data-driven strategy** development and implementation
 
-## 🏆 FAANG-Ready Skills Demonstrated
+## 🏆 Skills Demonstrated
 
 ### **Data Engineering & ETL**
 - Large-scale data processing and pipeline development
@@ -280,9 +280,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Nitesh** - *Data Scientist & ML Engineer*
-- 🎓 **PG Course in AI/ML** - Advanced Analytics Specialization
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/niteshsharmasrm)
+**Nitesh** - *Sr. Integration Architect, Data Scientist & ML Engineer*
+- 🎓 **PG Course in AI/ML from UT Austin** - Advanced Analytics Specialization
+- 💼 **LinkedIn**: [Connect with me](www.linkedin.com/in/niteshsharma90)
 - 📧 **Email**: niteshsharmasrm@gmail.com
 - 🌐 **Portfolio**: [View Projects](https://github.com/niteshsharmasrm)
 
