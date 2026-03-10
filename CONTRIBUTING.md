@@ -13,7 +13,7 @@ We welcome contributions to the FoodHub Data Analysis project! This document pro
 
 1. **Fork and Clone the Repository**
    ```bash
-   git clone https://github.com/nitesh1396975/foodhub-data-analysis.git
+   git clone https://github.com/nitessharmasrm/foodhub-data-analysis.git
    cd foodhub-data-analysis
    ```
 
@@ -188,7 +188,7 @@ Contributors will be recognized in:
 
 - **Issues**: Create a GitHub issue
 - **Discussions**: Use GitHub Discussions
-- **Email**: nitesh1396975@gmail.com
+- **Email**: nitesh.sharmasrm@gmail.com
 
 ## 📄 License
 
