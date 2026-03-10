@@ -8,7 +8,7 @@
 
 ## 🚀 Project Overview
 
-**FoodHub Data Analysis** is a comprehensive data science project that leverages advanced analytics to extract actionable insights from food delivery operations. This project demonstrates expertise in **data engineering**, **statistical analysis**, **machine learning**, and **business intelligence** - skills highly valued at **FAANG companies** and top-tier tech organizations.
+**FoodHub Data Analysis** is a comprehensive data science project that leverages advanced analytics to extract actionable insights from food delivery operations. This project demonstrates expertise in **data engineering**, **statistical analysis**, **machine learning**, and **business intelligence** - skills highly valued at **Fortune companies** and top-tier tech organizations.
 
 ### 🎯 Business Impact
 - **Revenue Optimization**: Identified key revenue drivers and customer behavior patterns
